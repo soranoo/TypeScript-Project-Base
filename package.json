@@ -20,8 +20,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@next/env": "^14.1.0",
-    "@t3-oss/env-nextjs": "^0.7.3",
+    "dotenv": "^16.4.5",
     "module-alias": "^2.2.3",
     "moment": "^2.30.1",
     "range-parser": "^1.2.1",
